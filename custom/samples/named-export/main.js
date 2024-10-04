@@ -1,4 +1,5 @@
-import {test as result} from './calc.js'
+import { test as result } from "./calc.js";
+
 let test = 3;
-log(test)
-result()
+log(test);
+result();

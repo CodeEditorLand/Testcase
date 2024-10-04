@@ -5,12 +5,12 @@ const b = { foo: a, a, c };
 console.log(renamed_a1, a, b.foo);
 
 {
-  const a = 1;
-  {
-    const a = 1;
-    {
-      const a = 1;
-      var c = 1000;
-    }
-  }
+	const a = 1;
+	{
+		const a = 1;
+		{
+			const a = 1;
+			var c = 1000;
+		}
+	}
 }

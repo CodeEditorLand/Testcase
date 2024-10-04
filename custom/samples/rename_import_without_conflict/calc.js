@@ -1,2 +1,1 @@
-export function diff(a, b) {
-}
+export function diff(a, b) {}

@@ -1,5 +1,4 @@
 const foo = "foo";
-(function() {
-    foo();
+(function () {
+	foo();
 })();
-

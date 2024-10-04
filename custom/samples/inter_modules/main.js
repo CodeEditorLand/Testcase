@@ -1,5 +1,5 @@
 import { foo } from "./foo.js";
 
-(function() {
-  foo()
-})()
+(function () {
+	foo();
+})();

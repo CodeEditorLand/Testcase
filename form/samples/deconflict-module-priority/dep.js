@@ -1,3 +1,3 @@
-const foo = 'dep';
+const foo = "dep";
 console.log(foo);
-export const bar = 'dep';
+export const bar = "dep";

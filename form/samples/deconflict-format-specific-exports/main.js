@@ -1,11 +1,11 @@
 const exports = {
-	x: 42
+	x: 42,
 };
 console.log(exports);
 
 function nestedConflict() {
 	const exports = {
-		x: 42
+		x: 42,
 	};
 	console.log(exports);
 	x++;
@@ -13,7 +13,7 @@ function nestedConflict() {
 
 function nestedNoConflict() {
 	const exports = {
-		x: 42
+		x: 42,
 	};
 	console.log(exports);
 }
